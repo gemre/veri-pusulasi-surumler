@@ -1,0 +1,65 @@
+Veri Pusulası — Tescilli Yazılım Lisansı / Proprietary Software License
+
+Copyright (c) 2026 Emre Genç. Tüm hakları saklıdır. All rights reserved.
+
+TÜRKÇE
+
+1. Sahiplik. Veri Pusulası yazılımı; kaynak kodu, derlenmiş hali, arayüz tasarımı, belgeleri, örnek verileri, adı
+   ve logosu dahil olmak üzere ("Yazılım") Emre Genç'e ("Hak Sahibi") aittir ve 5846 sayılı Fikir ve Sanat Eserleri
+   Kanunu ile uluslararası telif hakkı mevzuatı kapsamında korunur. "Veri Pusulası" adı ve logosu Hak Sahibi'nin
+   ticari işaretleridir.
+
+2. İzin verilmeyenler. Hak Sahibi'nin önceden verilmiş yazılı izni olmadan Yazılım'ın tamamı ya da bir kısmı:
+   a) kopyalanamaz, çoğaltılamaz, değiştirilemez, uyarlanamaz ya da başka bir yazılıma dahil edilemez;
+   b) satılamaz, kiralanamaz, lisanslanamaz, dağıtılamaz, yayımlanamaz ya da üçüncü kişilere aktarılamaz;
+   c) tersine mühendislik, kaynak koda dönüştürme (decompile) ya da çözümleme (disassemble) işlemine tabi
+      tutulamaz; yasaların bu yasağa rağmen açıkça izin verdiği haller saklıdır;
+   d) Yazılım'daki telif, lisans ya da mülkiyet bildirimleri kaldırılamaz veya değiştirilemez.
+
+3. Değerlendirme kullanımı. Hak Sahibi'nin Yazılım'ın derlenmiş halini doğrudan verdiği kişiler, onu yalnızca
+   kendi kullanımları için ve geri bildirim vermek amacıyla, Hak Sahibi'nin belirlediği süre boyunca
+   kullanabilir. Bu izin devredilemez, münhasır değildir ve Hak Sahibi tarafından her zaman geri alınabilir.
+
+4. Geri bildirim. Kullanıcıların Yazılım hakkında ilettiği öneri, fikir ve yorumlar, Hak Sahibi tarafından
+   herhangi bir bedel ya da hak doğmaksızın serbestçe kullanılabilir.
+
+5. Üçüncü taraf bileşenler. Yazılım, kendi lisanslarıyla dağıtılan açık kaynak bileşenler içerir; bunlar ve
+   lisansları THIRD_PARTY_NOTICES.md dosyasında listelenmiştir. Bu lisans o bileşenlere uygulanmaz.
+
+6. Garanti yokluğu. Yazılım "olduğu gibi" sunulur. Hak Sahibi, yasaların izin verdiği ölçüde, Yazılım'ın
+   kullanımından doğabilecek doğrudan ya da dolaylı hiçbir zarardan sorumlu değildir.
+
+7. Uygulanacak hukuk. Bu lisans Türkiye Cumhuriyeti hukukuna tabidir.
+
+İzin ve ticari lisans talepleri için Hak Sahibi ile iletişime geçin.
+
+ENGLISH
+
+1. Ownership. The Veri Pusulası software, including its source code, compiled form, interface design,
+   documentation, sample data, name and logo (the "Software"), is owned by Emre Genç (the "Owner") and is
+   protected by Turkish Law No. 5846 on Intellectual and Artistic Works and by international copyright law.
+   "Veri Pusulası" and its logo are trademarks of the Owner.
+
+2. Restrictions. Without the Owner's prior written permission, the Software, in whole or in part, may not be:
+   a) copied, reproduced, modified, adapted or incorporated into other software;
+   b) sold, rented, licensed, distributed, published or transferred to third parties;
+   c) reverse engineered, decompiled or disassembled, except where the law expressly permits it despite this
+      restriction;
+   d) stripped of, or altered in, any copyright, license or ownership notice.
+
+3. Evaluation use. Persons to whom the Owner directly provides the compiled Software may use it only for their
+   own use and to give feedback, for the period the Owner sets. This permission is non-transferable,
+   non-exclusive and may be withdrawn by the Owner at any time.
+
+4. Feedback. Suggestions, ideas and comments about the Software may be used freely by the Owner, without any
+   payment or right arising from them.
+
+5. Third-party components. The Software includes open-source components distributed under their own licenses,
+   listed with those licenses in THIRD_PARTY_NOTICES.md. This license does not apply to them.
+
+6. No warranty. The Software is provided "as is". To the extent permitted by law, the Owner is not liable for
+   any direct or indirect damage arising from its use.
+
+7. Governing law. This license is governed by the laws of the Republic of Türkiye.
+
+Contact the Owner for permissions and commercial licensing.
